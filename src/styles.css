@@ -1,27 +1,16 @@
-
-/* styles.css */
-h2 {
- padding: 10px;
- border-radius: 5px;
- margin-bottom: 10px;
+.body{
+    text-align: center;
+     background-color:  #ffa600;
 }
-.h1-colorido {
- background-color: rgb(233, 212, 24);
- color: white;
-}
-.hex-colorido {
- background-color: #00008b;
- color: #ffffff;
-}
-.rgb-colorido {
- background-color: rgb(0, 0, 139);
- color: rgb(255, 255, 255);
-}
-.hsl-colorido {
- background-color: hsl(240, 100%, 27%);
- color: hsl(0, 0%, 100%);
-}
-.rgba-colorido {
- background-color: rgba(0, 0, 139, 0.5);
- color: white;
-}
+.hex-coloridoNetfix {
+    background-color: #000000;
+    color: #fa0404;
+   }
+   .bodyHambúrgueres{
+    text-align: center;
+    background-color: #ffa600;
+   }
+.hex-coloridoHambúrgueres  {
+    background-color: #ffee00;
+    color: #fa0404;
+   }
